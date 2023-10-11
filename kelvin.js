@@ -1,4 +1,4 @@
-function submit1()
+function kelvinConverter()
 {
     let kvl=document.getElementById('kelvin');
     let frn=document.getElementById('forenhieght');
@@ -18,7 +18,7 @@ function submit1()
     }
     
 }
-function submit2()
+function celsiusConverter()
 {
     let kvl2=document.getElementById('kelvin2');
     let frn2=document.getElementById('forenhieght2');
@@ -38,7 +38,7 @@ function submit2()
     }
     
 }
-function submit3()
+function forenhieghtConverter()
 {
     let kvl3=document.getElementById('kelvin3');
     let frn3=document.getElementById('forenhieght3');
