@@ -1,0 +1,21 @@
+.mm{
+    background-color: burlywood;
+}
+.bb{
+    margin: 10px
+    /* margin: auto; */
+}
+.uu{
+    display: flex;
+    flex-direction: roe;
+    justify-content: space-around;
+}
+.bb input{
+    font-size:10px;
+    /* len */
+}
+.bg2{
+    
+    background-color: rgb(34, 174, 212);
+    margin: 10%;
+}
